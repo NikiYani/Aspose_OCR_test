@@ -1,0 +1,4 @@
+C:\_Programming\Aspose.OCR-for-C-master\x64\Debug\onnxruntime.dll
+C:\_Programming\Aspose.OCR-for-C-master\Aspose.OCR-for-C\x64\Debug\Aspose.OCR-for-C.vcxproj.CopyComplete
+C:\_Programming\Aspose_OCR_test\x64\Debug\onnxruntime.dll
+C:\_Programming\Aspose_OCR_test\Aspose.OCR-for-C\x64\Debug\Aspose.OCR-for-C.vcxproj.CopyComplete
